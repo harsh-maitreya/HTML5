@@ -1,0 +1,18 @@
+div{
+  background-color: #E97777;
+  padding: 20px;
+}
+hr{
+  border-bottom-style:dotted;
+  color: grey;
+  border-width: 0.4em;
+  border-left-style:none;
+  border-right-style:none;
+  border-top-style:none;
+  height: 10px;
+  width: 4%;
+}
+.seconddiv{
+  background-color:#54BAB9;
+   
+}
